@@ -1,0 +1,95 @@
+<svg height="1470" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1470" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">16 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ resourcejs@1.7.0 </tspan>
+<tspan x="10" y="90">  ├── composable-middleware@0.3.0 </tspan>
+<tspan x="10" y="106">  ├─┬ debug@2.6.4 </tspan>
+<tspan x="10" y="122">  │ └── ms@0.7.3 </tspan>
+<tspan x="10" y="138">  ├─┬ express@4.15.2 </tspan>
+<tspan x="10" y="154">  │ ├─┬ accepts@1.3.3 </tspan>
+<tspan x="10" y="170">  │ │ ├─┬ mime-types@2.1.15 </tspan>
+<tspan x="10" y="186">  │ │ │ └── mime-db@1.27.0 </tspan>
+<tspan x="10" y="202">  │ │ └── negotiator@0.6.1 </tspan>
+<tspan x="10" y="218">  │ ├── array-flatten@1.1.1 </tspan>
+<tspan x="10" y="234">  │ ├── content-disposition@0.5.2 </tspan>
+<tspan x="10" y="250">  │ ├── content-type@1.0.2 </tspan>
+<tspan x="10" y="266">  │ ├── cookie@0.3.1 </tspan>
+<tspan x="10" y="282">  │ ├── cookie-signature@1.0.6 </tspan>
+<tspan x="10" y="298">  │ ├─┬ debug@2.6.1 </tspan>
+<tspan x="10" y="314">  │ │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="330">  │ ├── depd@1.1.0 </tspan>
+<tspan x="10" y="346">  │ ├── encodeurl@1.0.1 </tspan>
+<tspan x="10" y="362">  │ ├── escape-html@1.0.3 </tspan>
+<tspan x="10" y="378">  │ ├── etag@1.8.0 </tspan>
+<tspan x="10" y="394">  │ ├─┬ finalhandler@1.0.1 </tspan>
+<tspan x="10" y="410">  │ │ ├─┬ debug@2.6.3 </tspan>
+<tspan x="10" y="426">  │ │ │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="442">  │ │ └── unpipe@1.0.0 </tspan>
+<tspan x="10" y="458">  │ ├── fresh@0.5.0 </tspan>
+<tspan x="10" y="474">  │ ├── merge-descriptors@1.0.1 </tspan>
+<tspan x="10" y="490">  │ ├── methods@1.1.2 </tspan>
+<tspan x="10" y="506">  │ ├─┬ on-finished@2.3.0 </tspan>
+<tspan x="10" y="522">  │ │ └── ee-first@1.1.1 </tspan>
+<tspan x="10" y="538">  │ ├── parseurl@1.3.1 </tspan>
+<tspan x="10" y="554">  │ ├── path-to-regexp@0.1.7 </tspan>
+<tspan x="10" y="570">  │ ├─┬ proxy-addr@1.1.4 </tspan>
+<tspan x="10" y="586">  │ │ ├── forwarded@0.1.0 </tspan>
+<tspan x="10" y="602">  │ │ └── ipaddr.js@1.3.0 </tspan>
+<tspan x="10" y="618">  │ ├── qs@6.4.0 </tspan>
+<tspan x="10" y="634">  │ ├── range-parser@1.2.0 </tspan>
+<tspan x="10" y="650">  │ ├─┬ send@0.15.1 </tspan>
+<tspan x="10" y="666">  │ │ ├── debug@2.6.1 </tspan>
+<tspan x="10" y="682">  │ │ ├── destroy@1.0.4 </tspan>
+<tspan x="10" y="698">  │ │ ├── http-errors@1.6.1 </tspan>
+<tspan x="10" y="714">  │ │ ├── mime@1.3.4 </tspan>
+<tspan x="10" y="730">  │ │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="746">  │ ├── serve-static@1.12.1 </tspan>
+<tspan x="10" y="762">  │ ├── setprototypeof@1.0.3 </tspan>
+<tspan x="10" y="778">  │ ├── statuses@1.3.1 </tspan>
+<tspan x="10" y="794">  │ ├─┬ type-is@1.6.15 </tspan>
+<tspan x="10" y="810">  │ │ └── media-typer@0.3.0 </tspan>
+<tspan x="10" y="826">  │ ├── utils-merge@1.0.0 </tspan>
+<tspan x="10" y="842">  │ └── vary@1.1.1 </tspan>
+<tspan x="10" y="858">  ├── fast-json-patch@0.5.7 </tspan>
+<tspan x="10" y="874">  ├── lodash@4.17.4 </tspan>
+<tspan x="10" y="890">  ├─┬ mongodb@2.2.26 </tspan>
+<tspan x="10" y="906">  │ ├── es6-promise@3.2.1 </tspan>
+<tspan x="10" y="922">  │ ├─┬ mongodb-core@2.1.10 </tspan>
+<tspan x="10" y="938">  │ │ └─┬ require_optional@1.0.0 </tspan>
+<tspan x="10" y="954">  │ │   ├── resolve-from@2.0.0 </tspan>
+<tspan x="10" y="970">  │ │   └── semver@5.3.0 </tspan>
+<tspan x="10" y="986">  │ └─┬ readable-stream@2.2.7 </tspan>
+<tspan x="10" y="1002">  │   ├── buffer-shims@1.0.0 </tspan>
+<tspan x="10" y="1018">  │   ├── core-util-is@1.0.2 </tspan>
+<tspan x="10" y="1034">  │   ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="1050">  │   ├── isarray@1.0.0 </tspan>
+<tspan x="10" y="1066">  │   ├── process-nextick-args@1.0.7 </tspan>
+<tspan x="10" y="1082">  │   ├── string_decoder@1.0.0 </tspan>
+<tspan x="10" y="1098">  │   └── util-deprecate@1.0.2 </tspan>
+<tspan x="10" y="1114">  ├─┬ mongoose@4.9.5 </tspan>
+<tspan x="10" y="1130">  │ ├── async@2.1.4 </tspan>
+<tspan x="10" y="1146">  │ ├── bson@1.0.4 </tspan>
+<tspan x="10" y="1162">  │ ├── hooks-fixed@2.0.0 </tspan>
+<tspan x="10" y="1178">  │ ├── kareem@1.2.1 </tspan>
+<tspan x="10" y="1194">  │ ├─┬ mongodb@2.2.25 </tspan>
+<tspan x="10" y="1210">  │ │ ├── mongodb-core@2.1.9 </tspan>
+<tspan x="10" y="1226">  │ │ └─┬ readable-stream@2.1.5 </tspan>
+<tspan x="10" y="1242">  │ │   └── string_decoder@0.10.31 </tspan>
+<tspan x="10" y="1258">  │ ├── mpath@0.2.1 </tspan>
+<tspan x="10" y="1274">  │ ├── mpromise@0.5.5 </tspan>
+<tspan x="10" y="1290">  │ ├─┬ mquery@2.3.0 </tspan>
+<tspan x="10" y="1306">  │ │ ├── bluebird@2.10.2 </tspan>
+<tspan x="10" y="1322">  │ │ ├─┬ debug@2.2.0 </tspan>
+<tspan x="10" y="1338">  │ │ │ └── ms@0.7.1 </tspan>
+<tspan x="10" y="1354">  │ │ └── sliced@0.0.5 </tspan>
+<tspan x="10" y="1370">  │ ├── ms@0.7.2 </tspan>
+<tspan x="10" y="1386">  │ ├── muri@1.2.1 </tspan>
+<tspan x="10" y="1402">  │ ├── regexp-clone@0.0.1 </tspan>
+<tspan x="10" y="1418">  │ └── sliced@1.0.1 </tspan>
+<tspan x="10" y="1434">  └── node-paginate-anything@1.0.0  (git+https://github.com/polo2ro/node-paginate-anything.git#c\</tspan>
+<tspan x="10" y="1450">2d25b9e8df121d3a2b563ae1ef3f70d30634a26)</tspan>
+</text>
+</svg>
